@@ -27,7 +27,7 @@ git clone https://github.com/jamesdesantiago/PowerQueryViewer.git
 
 Run the script from the command line by navigating to the directory containing `power_query_extractor.py` and executing:
 
-Replace `path_to_your_excel_file.xlsx` with the actual path to the Excel file you wish to extract Power Query M code from.
+Replace `excel_path` with the actual path to the Excel file you wish to extract Power Query M code from.
 
 ## Contributing
 
